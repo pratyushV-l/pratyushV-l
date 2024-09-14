@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @pratyushV-l
+Hi! I'm Pratyush, a 14 year old, who loves to code!
+
+- 👋 Github - @pratyushV-l
 - 👀 I’m interested in coding, researching, & sciences
-- 🌱 I’m currently learning javascript, zip, & many more
-- 💞️ I’m looking to collaborate on AI Model creation, and llm creation
+- 🌱 I’m currently learning javascript, rust, & many more
 - ⚡ Fun fact: I am born on March 5th
 
 <!---
