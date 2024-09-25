@@ -5,7 +5,7 @@ Hi! I'm Pratyush, a 14 year old, who loves to code!
 - 🌱 I’m currently learning javascript, rust, & many more
 - ⚡ Fun fact: I am born on March 5th
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=pratyushV-l&show_icons=true&hide_border=true))
+[![Pratush's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 pratyushV-l/pratyushV-l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
