@@ -4,7 +4,7 @@ I'm a passionate programmer with a strong interest in technology. I've been codi
 
 ---
 <a href="https://github.com">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushV-l&theme=noctis_minimus&show_icons=true&hide_border=true&border_radius=10&rank_icon=github&custom_title=STATS.md" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushV-l&theme=noctis_minimus&show_icons=true&hide_border=true&border_radius=10&hide_rank=true&custom_title=STATS.md" />
 </a>
 <a href="https://github.com">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushv-l&layout=compact&theme=noctis_minimus&hide_border=true&border_radius=10&langs_count=8&card_width=320" />
