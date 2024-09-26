@@ -1,10 +1,8 @@
-Hi! I'm Pratyush, a 14 year old, who loves to code!
+**Hi! I'm Pratyush, a 14 year old, who loves to code!**
 
-- 👋 Github - @pratyushV-l
-- 👀 I’m interested in coding, researching, & sciences
-- 🌱 I’m currently learning javascript, rust, & many more
-- ⚡ Fun fact: I am born on March 5th
+I'm a passionate programmer with a strong interest in technology. I've been coding for 7 years and am proficient in Python, currently learning Rust and JavaScript. I'm interested in building applications that make a positive impact on the world. I've participated in coding competitions and enjoy solving puzzles.
 
+---
 <a href="https://github.com">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushV-l&theme=noctis_minimus&show_icons=true&hide_border=true&border_radius=10&rank_icon=github&custom_title=STATS.md" />
 </a>
