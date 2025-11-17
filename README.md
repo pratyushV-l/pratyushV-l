@@ -1,4 +1,4 @@
-**Hi! I'm Pratyush, a 14 year old, who loves to code!**
+**Hi! I'm Pratyush, a 15 year old, who loves to code!**
 
 I'm a passionate programmer with a strong interest in technology. I've been coding for 7 years and am proficient in Python, currently learning Rust and JavaScript. I'm interested in building applications that make a positive impact on the world. I've participated in coding competitions and enjoy solving puzzles.
 
